@@ -1,7 +1,7 @@
 # -----------------------------------------
 # Actividad Formativa 3: Herencia en Python
 # Autor: Sarahi Téllez
-# Materia: Fundamentos de Programación
+# Materia: POO
 # -----------------------------------------
 
 # Clase base
